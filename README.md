@@ -7,9 +7,6 @@ For eample, 121 and 131 are palindromes. However, 123 is not a palindrome.
 [Answer](https://github.com/minyoungrho/DailyCodingProblems/blob/main/answers/palindrome.ipynb)
 
 ## Problem 2
-
-$\pi$
-
 Write a program that approximates pi. 
 
 Hint:
