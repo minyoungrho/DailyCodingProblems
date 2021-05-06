@@ -24,15 +24,10 @@ Create a function "build_tree" that accepts ona parameter which is the number of
 Example: build_tree(6) builds the following tree:
 
         *
-        
-        * *
-        
-        * * *
-        
-        * * * *
-        
-        * * * * *
-        
+        * *        
+        * * *        
+        * * * *        
+        * * * * *        
         * * * * * *
         
 Condition: There can only be one "*" in the code.
@@ -43,15 +38,10 @@ Hint: Use "\n" for line breaks and print result to see it in tree form instead o
 If you liked it you can also try to create another function (build_tree_reverse) which builds the tree in a reverse way:
     
         * * * * * *
-
-        * * * * *
-  
-        * * * *
-        
-        * * *
-        
-        * *
-        
+        * * * * *  
+        * * * *        
+        * * *        
+        * *        
         *
         
 Remember to use only one "*".
