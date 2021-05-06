@@ -16,3 +16,59 @@ Hint:
 2. Use random number generator for a uniform distribution.
 
 [Answer](https://github.com/minyoungrho/DailyCodingProblems/blob/main/answers/pi.ipynb)
+
+
+## PRoblem 3
+Create a function "build_tree" that accepts ona parameter which is the number of lines of the tree. 
+
+Example: build_tree(6) builds the following tree:
+
+        *
+        
+        * *
+        
+        * * *
+        
+        * * * *
+        
+        * * * * *
+        
+        * * * * * *
+        
+Condition: There can only be one "*" in the code.
+
+Hint: Use "\n" for line breaks and print result to see it in tree form instead of: "*\n**\n***\n****\n*****\n******\n"
+
+
+If you liked it you can also try to create another function (build_tree_reverse) which builds the tree in a reverse way:
+    
+        * * * * * *
+
+        * * * * *
+  
+        * * * *
+        
+        * * *
+        
+        * *
+        
+        *
+        
+Remember to use only one "*".
+
+
+And finally you can create another function combining the previous functions to create an arrow. 
+
+        *
+        * *
+        * * *
+        * * * *
+        * * * * *
+        * * * * * *
+        * * * * *
+        * * * *
+        * * *
+        * *
+        *
+
+Here 2 "*" are allowed.
