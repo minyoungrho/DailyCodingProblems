@@ -18,7 +18,7 @@ Hint:
 [Answer](https://github.com/minyoungrho/DailyCodingProblems/blob/main/answers/pi.ipynb)
 
 
-## PRoblem 3
+## Problem 3
 Create a function "build_tree" that accepts ona parameter which is the number of lines of the tree. 
 
 Example: build_tree(6) builds the following tree:
@@ -62,3 +62,12 @@ And finally you can create another function combining the previous functions to 
         *
 
 Here 2 "*" are allowed.
+
+
+## Problem 4
+
+Given two **integers**, create a function that finds **the largest prime** within the range of the two integers.
+
+All numbers should be positive integers.
+
+Example: an input of (2, 10) results in 7
